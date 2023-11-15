@@ -3,7 +3,7 @@ import './App.css';
 const items = [
 
   {itemName: "necklaces",
-  image: src=
+  image: src=m
 }
 
 ]
